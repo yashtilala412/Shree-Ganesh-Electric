@@ -22,7 +22,7 @@ to use for maintenance and improve the  business.basically this web application 
 
 - **Login/Sign Up**
 - **Product Display**
-- **Product Estimation using Cart** (No need to place order required as per stakeholder)
+- **Product Estimation using Cart** (No need to place order required as per stakeholder's need)
 - **Home**
 - **About Us**
 
