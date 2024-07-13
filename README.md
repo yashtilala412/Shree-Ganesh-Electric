@@ -9,9 +9,9 @@ to use for maintenance and improve the  business.basically this web application 
 
 ## Tech Stack
 
-**Client:** React
+**Frontend:** React
 
-**backend:** Node, springboot,express
+**backend:** Node, springboot,expressjs
 
 **database:** mongodb
 
